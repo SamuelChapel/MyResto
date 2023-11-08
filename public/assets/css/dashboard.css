@@ -1,0 +1,12 @@
+#dashboard-reservations {
+  display: flex;
+  gap: 20px;
+}
+#dashboard-reservations .reservations {
+  display: grid;
+  grid-gap: 10px;
+  grid-auto-rows: auto;
+  background-color: chocolate;
+}
+
+/*# sourceMappingURL=dashboard.css.map */
